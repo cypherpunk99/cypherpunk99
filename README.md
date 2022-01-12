@@ -5,8 +5,8 @@
 
 📬 [Telegram](https://t.me/cypherpunk99)
 
-[Contacts](https://cypherpunk99.github.io)
+📞 [Contacts](https://cypherpunk99.github.io)
 
-[Next.js docs / blog](https://next-js.org)
+📝 [Next.js docs / blog](https://next-js.org)
 
 
