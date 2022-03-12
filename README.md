@@ -5,6 +5,5 @@
 
 📬 [Telegram](https://t.me/cypherpunk99)
 
-📝 [Next.js docs / blog](https://next-js.org)
 
 
